@@ -15,12 +15,15 @@
 		9E26F665272A9CAFF17282D8A4452038 /* Pods-zcqOneFramework_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FB80BA43AB069AB6C18E0ECC940A3531 /* Pods-zcqOneFramework_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A446D8821AC79617ED0E4B814BC966E8 /* Pods-zcqOneFramework_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B35EFD29D93B2FA52513892D013FCFDE /* Pods-zcqOneFramework_Tests-dummy.m */; };
 		C5B9573CE9D9D89815EC82B0490829F0 /* Pods-zcqOneFramework_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD7314A8616CCBBC02FBA055E445D894 /* Pods-zcqOneFramework_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D91AE2A028F7EB790048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE29E28F7EB790048FB7D /* DemoVender.h */; };
-		D91AE2A128F7EB790048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE29E28F7EB790048FB7D /* DemoVender.h */; };
-		D91AE2A228F7EB790048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE29E28F7EB790048FB7D /* DemoVender.h */; };
-		D91AE2A328F7EB790048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE29F28F7EB790048FB7D /* DemoVender.m */; };
-		D91AE2A428F7EB790048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE29F28F7EB790048FB7D /* DemoVender.m */; };
-		D91AE2A528F7EB790048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE29F28F7EB790048FB7D /* DemoVender.m */; };
+		D91AE2AB28F7F1D30048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE2A828F7F1D30048FB7D /* DemoVender.h */; };
+		D91AE2AC28F7F1D30048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE2A828F7F1D30048FB7D /* DemoVender.h */; };
+		D91AE2AD28F7F1D30048FB7D /* DemoVender.h in Headers */ = {isa = PBXBuildFile; fileRef = D91AE2A828F7F1D30048FB7D /* DemoVender.h */; };
+		D91AE2AE28F7F1D30048FB7D /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = D91AE2A928F7F1D30048FB7D /* .gitkeep */; };
+		D91AE2AF28F7F1D30048FB7D /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = D91AE2A928F7F1D30048FB7D /* .gitkeep */; };
+		D91AE2B028F7F1D30048FB7D /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = D91AE2A928F7F1D30048FB7D /* .gitkeep */; };
+		D91AE2B128F7F1D30048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE2AA28F7F1D30048FB7D /* DemoVender.m */; };
+		D91AE2B228F7F1D30048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE2AA28F7F1D30048FB7D /* DemoVender.m */; };
+		D91AE2B328F7F1D30048FB7D /* DemoVender.m in Sources */ = {isa = PBXBuildFile; fileRef = D91AE2AA28F7F1D30048FB7D /* DemoVender.m */; };
 		ED31C134A172D35B7DFD8EAC3B609584 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -70,8 +73,9 @@
 		A3DD77B4BCC781FBF7B682FCFA5A92E2 /* zcqOneFramework-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "zcqOneFramework-Info.plist"; sourceTree = "<group>"; };
 		B35EFD29D93B2FA52513892D013FCFDE /* Pods-zcqOneFramework_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-zcqOneFramework_Tests-dummy.m"; sourceTree = "<group>"; };
 		BD7314A8616CCBBC02FBA055E445D894 /* Pods-zcqOneFramework_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-zcqOneFramework_Example-umbrella.h"; sourceTree = "<group>"; };
-		D91AE29E28F7EB790048FB7D /* DemoVender.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DemoVender.h; sourceTree = "<group>"; };
-		D91AE29F28F7EB790048FB7D /* DemoVender.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DemoVender.m; sourceTree = "<group>"; };
+		D91AE2A828F7F1D30048FB7D /* DemoVender.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DemoVender.h; sourceTree = "<group>"; };
+		D91AE2A928F7F1D30048FB7D /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
+		D91AE2AA28F7F1D30048FB7D /* DemoVender.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DemoVender.m; sourceTree = "<group>"; };
 		DD02EADEF4E0F993D3E0B0CD7D06EB5B /* Pods-zcqOneFramework_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-zcqOneFramework_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E3DDBD15A5AFCAE427A0EB7CC6FFC43D /* zcqOneFramework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = zcqOneFramework.release.xcconfig; sourceTree = "<group>"; };
 		F35B21B130A22350EE7DF3E1869EAC75 /* Pods_zcqOneFramework_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_zcqOneFramework_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -127,10 +131,9 @@
 		58974DD7BD348CF0621D5E6D5F029DB0 /* zcqOneFramework */ = {
 			isa = PBXGroup;
 			children = (
+				D91AE2A728F7F1D30048FB7D /* Classes */,
 				E7971CB95AEB761B3B19D8D2FD75FBEE /* Pod */,
 				7F43FB653E9B7B9AACC6178E2EC73EA4 /* Support Files */,
-				D91AE29E28F7EB790048FB7D /* DemoVender.h */,
-				D91AE29F28F7EB790048FB7D /* DemoVender.m */,
 			);
 			name = zcqOneFramework;
 			path = ../..;
@@ -195,6 +198,17 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		D91AE2A728F7F1D30048FB7D /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				D91AE2A828F7F1D30048FB7D /* DemoVender.h */,
+				D91AE2A928F7F1D30048FB7D /* .gitkeep */,
+				D91AE2AA28F7F1D30048FB7D /* DemoVender.m */,
+			);
+			name = Classes;
+			path = zcqOneFramework/Classes;
+			sourceTree = "<group>";
+		};
 		DC48635A6962FC8C452D4B20F7A90199 /* Pods-zcqOneFramework_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -238,7 +252,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C5B9573CE9D9D89815EC82B0490829F0 /* Pods-zcqOneFramework_Example-umbrella.h in Headers */,
-				D91AE2A028F7EB790048FB7D /* DemoVender.h in Headers */,
+				D91AE2AB28F7F1D30048FB7D /* DemoVender.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,7 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3687810BB7EC223E14299E03489D2CFD /* zcqOneFramework-umbrella.h in Headers */,
-				D91AE2A228F7EB790048FB7D /* DemoVender.h in Headers */,
+				D91AE2AD28F7F1D30048FB7D /* DemoVender.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,7 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E26F665272A9CAFF17282D8A4452038 /* Pods-zcqOneFramework_Tests-umbrella.h in Headers */,
-				D91AE2A128F7EB790048FB7D /* DemoVender.h in Headers */,
+				D91AE2AC28F7F1D30048FB7D /* DemoVender.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,6 +367,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D91AE2AF28F7F1D30048FB7D /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +375,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D91AE2B028F7F1D30048FB7D /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -367,6 +383,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D91AE2AE28F7F1D30048FB7D /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -377,7 +394,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D91AE2A328F7EB790048FB7D /* DemoVender.m in Sources */,
+				D91AE2B128F7F1D30048FB7D /* DemoVender.m in Sources */,
 				7EBFDDA2E8962ADC0ACA06E50A83548F /* Pods-zcqOneFramework_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -386,7 +403,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D91AE2A528F7EB790048FB7D /* DemoVender.m in Sources */,
+				D91AE2B328F7F1D30048FB7D /* DemoVender.m in Sources */,
 				8DC43311053D39A00C4BE4B1C666C662 /* zcqOneFramework-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -395,7 +412,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D91AE2A428F7EB790048FB7D /* DemoVender.m in Sources */,
+				D91AE2B228F7F1D30048FB7D /* DemoVender.m in Sources */,
 				A446D8821AC79617ED0E4B814BC966E8 /* Pods-zcqOneFramework_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
