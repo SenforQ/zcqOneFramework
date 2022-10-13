@@ -1,0 +1,6 @@
+framework module zcqOneFramework {
+  umbrella header "zcqOneFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

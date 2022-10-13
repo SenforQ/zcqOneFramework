@@ -1,0 +1,16 @@
+PODS:
+  - zcqOneFramework (0.1.0)
+
+DEPENDENCIES:
+  - zcqOneFramework (from `../`)
+
+EXTERNAL SOURCES:
+  zcqOneFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zcqOneFramework: 27fddda6ecfcffce71c32a1c580749401f3deb2e
+
+PODFILE CHECKSUM: d87200a6f2ec5ba1f0ab658e54b31a8de16296ca
+
+COCOAPODS: 1.11.2
