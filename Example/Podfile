@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'zcqOneFramework_Example' do
+  pod 'zcqOneFramework', :path => '../'
+
+  target 'zcqOneFramework_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
